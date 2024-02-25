@@ -1,101 +1,101 @@
 {"students":[
     {
-        "name": "김다빈",
+        "name": "김철수",
         "gender": "여자",
         "address": "서울시 강동구"
-    },
-    {
-        "name": "김민수",
-        "gender": "남자",
-        "address": "서울시 송파구"
-    },
-    {
-        "name": "김수아",
-        "gender": "여자",
-        "address": "서울시 송파구"
     },
     {
         "name": "김우진",
         "gender": "남자",
+        "address": "서울시 송파구"
+    },
+    {
+        "name": "김짱구",
+        "gender": "여자",
+        "address": "서울시 송파구"
+    },
+    {
+        "name": "원빈",
+        "gender": "남자",
         "address": "서울시 중랑구"
     },
     {
-        "name": "김진영",
+        "name": "정해인",
         "gender": "남자",
         "address": "서울시 강남구"
     },
     {
-        "name": "노성현",
+        "name": "키",
         "gender": "남자",
         "address": "서울시 강북구"
     },
     {
-        "name": "노효민",
-        "gender": "여자",
+        "name": "이특",
+        "gender": "남자",
         "address": "서울시 중랑구"
     },
     {
-        "name": "손예림",
+        "name": "손예진",
         "gender": "여자",
         "address": "서울시 강남구"
     },
     {
-        "name": "오동석",
+        "name": "마동석",
         "gender": "남자",
         "address": "서울시 강남구"
     },
     {
-        "name": "이가영",
+        "name": "윤아",
         "gender": "여자",
         "address": "서울시 서대문구"
     },
     {
-        "name": "이은수",
+        "name": "유나",
         "gender": "여자",
         "address": "서울시 중랑구"
     },
     {
-        "name": "박유진",
+        "name": "지석진",
         "gender": "여자",
         "address": "서울시 중랑구"
     },
     {
-        "name": "박형준",
+        "name": "김종국",
         "gender": "남자",
         "address": "서울시 영등포구"
     },
     {
-        "name": "박석원",
+        "name": "유재석",
         "gender": "남자",
         "address": "서울시 영등포구"
     },
     {
-        "name": "박소희",
+        "name": "전소민",
         "gender": "여자",
         "address": "서울시 강서구"
     },
     {
-        "name": "조다솜",
+        "name": "제니",
         "gender": "여자",
         "address": "서울시 강서구"
     },
     {
-        "name": "차민성",
+        "name": "송강호",
         "gender": "남자",
         "address": "서울시 송파구"
     },
     {
-        "name": "최승관",
+        "name": "이탕",
         "gender": "남자",
         "address": "서울시 강동구"
     },
     {
-        "name": "하성덕",
+        "name": "장난감",
         "gender": "남자",
         "address": "서울시 송파구"
     },
     {
-        "name": "호경화",
+        "name": "한소희",
         "gender": "여자",
         "address": "서울시 강서구"
     }
