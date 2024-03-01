@@ -1,0 +1,29 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+div.container{
+    max-width : 600px;
+    margin : 0 auto;
+    padding : 20px;
+}
+.comment-form{
+    margin-bottom : 20px;
+}
+.comment-form input[type="text"]{
+    width : 70%;
+    padding :8px
+}
+.comment-form button{
+    background-color: #2a92f4d4;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border : none;
+    font-size : 13px;
+    cursor: pointer;
+}
+
+.comment-form button:hover{
+    background-color: rgb(237, 129, 129);
+}
+
