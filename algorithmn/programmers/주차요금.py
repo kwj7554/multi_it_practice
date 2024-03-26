@@ -21,7 +21,7 @@ def solution(fees,records):
             car_dict[i].append(1439)
         start =0
         end=1
-        for j in range(int(len(car_dict[i])/2)):
+        for _ in range(int(len(car_dict[i])/2)):
             time=car_dict[i][end]-car_dict[i][start]
             start+=2
             end+=2
