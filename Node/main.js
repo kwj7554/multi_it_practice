@@ -7,6 +7,7 @@ fs.access("./example",constants.F_OK | constants.W_OK | constants.R_OK)
 //access는 파일이 있다면 접근하는 것이기 때문에 존재한다면 then으로 갈 것이다.    
     .then(()=>{
         return Promise.reject("이미 파일이 존재합니다.")
+        // reject를한다면 catch로 빠지게 된다.
     })
     .catch((err)=>{
         if(err.code==="ENOENT"){
@@ -51,4 +52,7 @@ setTimeout(()=>{
         console.error(err)
     })
 },1000)
+// 1초 후에 실행한다는 것 댐누에  오류가 나나
+// 한번에 연결해보잡
+
 
