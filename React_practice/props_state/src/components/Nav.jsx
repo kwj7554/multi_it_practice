@@ -1,4 +1,3 @@
-
 export const Nav=(props)=>{
     const list=[]
     for(let i =0;i<props.data.length;i++){
